@@ -1,0 +1,9 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "salons": "Salons",
+    "signup": "Sign Up"
+  }
+}
